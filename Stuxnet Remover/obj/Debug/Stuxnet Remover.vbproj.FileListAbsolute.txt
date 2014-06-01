@@ -1,0 +1,10 @@
+c:\users\james\desktop\Archive\Imagery\Tax Deductions (1994)\Stuxnet Remover\Stuxnet Remover\bin\Debug\Stuxnet Remover.exe.config
+c:\users\james\desktop\Archive\Imagery\Tax Deductions (1994)\Stuxnet Remover\Stuxnet Remover\bin\Debug\Stuxnet Remover.exe
+c:\users\james\desktop\Archive\Imagery\Tax Deductions (1994)\Stuxnet Remover\Stuxnet Remover\bin\Debug\Stuxnet Remover.pdb
+c:\users\james\desktop\Archive\Imagery\Tax Deductions (1994)\Stuxnet Remover\Stuxnet Remover\bin\Debug\Stuxnet Remover.xml
+c:\users\james\desktop\Archive\Imagery\Tax Deductions (1994)\Stuxnet Remover\Stuxnet Remover\obj\Debug\Stuxnet_Remover.Form1.resources
+c:\users\james\desktop\Archive\Imagery\Tax Deductions (1994)\Stuxnet Remover\Stuxnet Remover\obj\Debug\Stuxnet_Remover.Resources.resources
+c:\users\james\desktop\Archive\Imagery\Tax Deductions (1994)\Stuxnet Remover\Stuxnet Remover\obj\Debug\Stuxnet Remover.vbproj.GenerateResource.Cache
+c:\users\james\desktop\Archive\Imagery\Tax Deductions (1994)\Stuxnet Remover\Stuxnet Remover\obj\Debug\Stuxnet Remover.exe
+c:\users\james\desktop\Archive\Imagery\Tax Deductions (1994)\Stuxnet Remover\Stuxnet Remover\obj\Debug\Stuxnet Remover.xml
+c:\users\james\desktop\Archive\Imagery\Tax Deductions (1994)\Stuxnet Remover\Stuxnet Remover\obj\Debug\Stuxnet Remover.pdb
